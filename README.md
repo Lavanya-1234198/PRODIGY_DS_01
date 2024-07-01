@@ -3,6 +3,7 @@ This script creates a bar chart to visualize the gender distribution with counts
 
 Prerequisites
 ->Python 3.x
+
 ->Matplotlib library
 
 Script:
